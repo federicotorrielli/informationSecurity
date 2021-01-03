@@ -20,7 +20,21 @@ e allo stesso tempo contrastare la concorrenza creatasi da un'azienda esterna.
 
 ## 4.2 Comprendere le necessità e le aspettative delle parti interessate
 
-
+I principali player che vengono in atto quando si parla di gestione di un operatore virtuale affidato sono generalmente i seguenti:
+    - La società stakeholder principale. In questo caso, la VEI.
+    - L'utenza mobile interessata da ricoprire: persone interessate a pagare poco ma ad avere un servizio di buona qualità.
+    - Il servizio principale che si occupa del servizio, anch'esso diviso in:
+        - Programmatori web della piattaforma
+        - Programmatori DB per la gestione dei dati
+        - Servizio di management e controllo delle operazioni
+        - Servizio di erogazione delle offerte alla clientela
+    - Servizi secondari, che fanno la differenza tra un'operatore reale e virtuale, come:
+        - L'assistenza clienti telefonica, affidata ad aziende esterne, spesso estere
+        - L'assistenza clienti online, tramite forum, per ingaggiare una community a trovare risposte da soli tra loro, senza dover spendere troppo sull'assistenza
+    - Servizi essenziali al corretto svolgimento del servizio principale, quali:
+        - Società di erogazione servizi online: noleggio/vendita di DB e spazio online che NON sono parte di VEI ma che vengono gestiti e sono effettivamente parte di Ho.
+        - Lo stato italiano e l'unione europea, verso cui si hanno obblighi quali il rispetto del GDPR e il pagamento delle tasse per il servizio offerto
+        - Il servizio bancario di gestione dell'income dell'azienda
 
 ## 4.3 Determinare il campo di applicazione del sistema di gestione per la sicurezza delle informazioni
 
