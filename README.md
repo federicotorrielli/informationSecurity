@@ -108,15 +108,17 @@ Partendo dal sistema di registrazione dell'utente, fino all'immissione dei suoi 
 che l'intero processo garantisca la riservatezza delle sue informazioni. Quest'ultimo processo si può dividere in
 un numero limitato di fasi, ovvero:
 
-- Registrazione su sito sicuro (HTTPS) con connessione TCP
-- Le credenziali ed i dati personali devono poi essere messe su storage sicuro
-- L'accesso al suddetto storage deve essere riservato a solo le componenti critiche del personale, non a tutti
+- Registrazione su sito sicuro (ad es. HTTPS con connessione TCP)
+- Le credenziali ed i dati personali devono poi salvate su *storage sicuro*, crittografate e non indirizzate sul web
+- L'accesso al suddetto storage deve essere riservato solamente alle componenti critiche del personale, non a tutti
 - I sistemi automatici che fanno accesso allo storage devono essere altrettanto sicuri
-- Se è stato inserito un metodo di pagamento, esso **non** deve essere salvato sullo stesso storage dove sono presenti le informazioni personali
+- Se è stato inserito un metodo di pagamento, esso **non** deve essere salvato insieme alle informazioni personali
 
 Oltre a questo processo esemplificativo, un argomento sicuramente altrettanto importante è la corretta divisione
-del meccanismo di "granting" (ovvero, a chi il sistema debba dare i privilegi, e a quali documenti l'utente possa accedervi)
-
+del meccanismo di "granting" (ovvero, a chi il sistema debba dare i privilegi, e a quali documenti l'utente possa accedere).
+Ad esempio, un tecnico che ripara un server non potrà certamente accedere ai dati conservati sullo stesso, così come un
+operatore di call center deve avere solamente *le giuste informazioni* a disposizione per poter aiutare l'utente,
+senza però invadere la sua privacy.
 
 > Sistemi di backup e ripristino + manutenzione programmata
 
