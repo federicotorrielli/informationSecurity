@@ -77,7 +77,7 @@ all'azienda fino a quelli in possesso di altre compagnie ma comunque di propriet
 server di terzi).
 
 Devono essere garantiti i dati dell'azienda, delle compagnie con cui Ho Mobile interagisce, dei dipendenti e degli
-utenti nel rispetto della normativa Europea (GDPR).
+utenti nel rispetto della normativa europea (GDPR).
 
 ### Operazioni
 Le operazioni eseguibili dagli utenti all'interno, e all'esterno dell'azienda, devono essere vincolate dalla gestione
