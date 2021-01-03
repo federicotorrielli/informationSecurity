@@ -66,21 +66,26 @@ Il campo di applicazione si suddivide fra la protezione dei dati e delle operazi
 -   clienti;
 -   dipendenti.
 
+### Protezione di dati sensibili
 È necessario ridurre la possibilità che vengano diffusi dati sensibili avendo come effetto collaterale la violazione
 della privacy, le attività illecite e la compromissione del normale funzionamento della compagnia e dei suoi servizi.
 
+I sistemi di memorizzazione di dati, e i mezzi per raggiungerli, devono essere protetti per evitare l'intrusione di
+malintenzionati e devono essere periodicamente soggetti a backup necessari in caso di perdita di dati per mano di
+utenti aventi i permessi, malintenzionati e motivi di forza maggiore. La protezione si deve estendere dai dati interni
+all'azienda fino a quelli in possesso di altre compagnie ma comunque di proprietà di VEI (ad esempio il noleggio di
+server di terzi).
+
+Devono essere garantiti i dati dell'azienda, delle compagnie con cui Ho Mobile interagisce, dei dipendenti e degli
+utenti nel rispetto della normativa Europea (GDPR).
+
+### Operazioni
 Le operazioni eseguibili dagli utenti all'interno, e all'esterno dell'azienda, devono essere vincolate dalla gestione
 dei permessi stabiliti in funzione del tipo di operazione e del ruolo dell'utente, viene quindi concessa l'esecuzione 
 delle operazioni sensibili in base a chi risulta essere moralmente e giuridicamente responsabile.
 
-I sistemi di memorizzazione di dati, e i mezzi per raggiungerli, devono essere protetti per evitare l'intrusione di 
-malintenzionati e devono essere periodicamente soggetti a backup necessari in caso di perdita di dati per mano di
-utenti aventi i permessi, malintenzionati e motivi di forza maggiore. La protezione si deve estendere dai dati interni 
-all'azienda fino a quelli in possesso di altre compagnie ma comunque di proprietà di VEI (ad esempio il noleggio di 
-server di terzi).
-
 I metodi di pagamento offerti sul sito e sull'applicazione mobile devono essere protetti garantendo lo scambio di dati 
-crittografati, devono permette l'autenticazione in più fattori richiesta dalle banche (e altri) ed è essenziale 
+crittografati, devono permettere l'autenticazione in più fattori richiesta dalle banche (e altri) ed è essenziale 
 garantire la non diffusione di dati di pagamento per mano di malintenzionati (interni ed esterni all'azienda). I dati 
 bancari da proteggere sono sia quelli dell'azienda che quelli dipendenti, clienti e altre compagnie con cui Ho Mobile 
 interagisce.
@@ -92,8 +97,5 @@ contrattuali del vecchio operatore (ad esempio lo spostamento del credito residu
 minimo le possibilità di sim-swapping garantendo la sicurezza degli utenti.
 
 I servizi di Ho Mobile (come il servizio clienti, il sito web e l'applicazione mobile) devono essere protetti in modo 
-da contrastare gli hackeraggi e le attività illecite che tentano di violare la sicurezza dei dati o di manomettere i
+da contrastare le intrusioni e le attività illecite che tentano di violare la sicurezza dei dati o di manomettere i
 servizi dell'azienda.
-
-Devono essere garatiti i dati dell'azienda, delle compagnie con cui Ho Mobile interagisce, dei dipendenti e degli 
-utenti nel rispetto della normativa Europea (GDPR).
