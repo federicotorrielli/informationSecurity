@@ -60,24 +60,22 @@ Includiamo:
 - Servizi secondari, che possono accedere solo *in parte* alle informazioni aziendali oppure semplicemente alle informazioni che Ho. decide di mettere loro a disposizione.
 
 ## 4.3 Determinare il campo di applicazione del sistema di gestione per la sicurezza delle informazioni
-
 Il campo di applicazione si suddivide fra la protezione dei dati e delle operazioni di:
--   Ho-mobile;
--   clienti;
--   dipendenti.
+- Ho-mobile
+- Clienti
+- Dipendenti
 
-### Protezione di dati sensibili
-È necessario ridurre la possibilità che vengano diffusi dati sensibili avendo come effetto collaterale la violazione
-della privacy, le attività illecite e la compromissione del normale funzionamento della compagnia e dei suoi servizi.
-
-I sistemi di memorizzazione di dati, e i mezzi per raggiungerli, devono essere protetti per evitare l'intrusione di
-malintenzionati e devono essere periodicamente soggetti a backup necessari in caso di perdita di dati per mano di
-utenti aventi i permessi, malintenzionati e motivi di forza maggiore. La protezione si deve estendere dai dati interni
-all'azienda fino a quelli in possesso di altre compagnie ma comunque di proprietà di VEI (ad esempio il noleggio di
-server di terzi).
-
-Devono essere garantiti i dati dell'azienda, delle compagnie con cui Ho Mobile interagisce, dei dipendenti e degli
-utenti nel rispetto della normativa europea (GDPR).
+### Dati sensibili
+- Protezione dei dati sensibili: è necessario ridurre la possibilità che vengano diffusi dati sensibili avendo come 
+  effetto collaterale la violazione della privacy, le attività illecite e la compromissione del normale funzionamento 
+  della compagnia e dei suoi servizi.
+- Storage e utilizzo dati: i sistemi di memorizzazione di dati, e i mezzi per raggiungerli, devono essere protetti per 
+  evitare l'intrusione di malintenzionati e devono essere periodicamente soggetti a backup necessari in caso di perdita 
+  di dati per mano di utenti aventi i permessi, malintenzionati e motivi di forza maggiore. La protezione si deve 
+  estendere dai dati interni all'azienda fino a quelli in possesso di altre compagnie ma comunque di proprietà di VEI 
+  (ad esempio il noleggio di server di terzi).
+- Direttive UE: devono essere garantiti i dati dell'azienda, delle compagnie con cui Ho Mobile interagisce, dei 
+  dipendenti e degli utenti nel rispetto della normativa europea (GDPR).
 
 ### Operazioni
 Le operazioni eseguibili dagli utenti all'interno, e all'esterno dell'azienda, devono essere vincolate dalla gestione
