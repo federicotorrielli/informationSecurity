@@ -123,4 +123,24 @@ Sistemi di backup e ripristini sono necessari in caso di malfunzionamenti o atta
 la manutenzione programmata, deve essere presente una "modalità manutenzione" che permette l'accesso al sistema solo 
 dagli addetti alla manutenzione fino al termine delle operazioni richieste.
 
+## 6.1 Criteri di valutazione del rischio
 
+### Legenda / Matrice di calcolo del rischio
+
+I valori della sezione successiva verranno calcolati tenendo conto della seguente tabella:
+
+![Matrice di calcolo del rischio](https://i.imgur.com/v9iQ5vN.png)
+
+#### Criterio di valutazione delle probabilità
+
+.           |      Raro     | Improbabile | Probabile | Quasi certo
+------------|---------------|-------------|-----------|------------
+Livello     |       1       |      2      |     3     |     4
+Probabilità |  ogni 10 anni | ogni 5 anni | ogni mese | ogni settimana
+
+#### Criterio di valutazione degli impatti
+
+.           |     Basso     | Medio-Basso | Medio-Alto|    Alto
+------------|---------------|-------------|-----------|------------
+Livello     |       1       |      2      |     3     |     4
+Impatto     |   Fino a 50k  |   50k-100k  | 100k-500k | più di 1mln
