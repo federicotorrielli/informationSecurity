@@ -144,3 +144,14 @@ Probabilità |  ogni 10 anni | ogni 5 anni | ogni mese | ogni settimana
 ------------|---------------|-------------|-----------|------------
 Livello     |       1       |      2      |     3     |     4
 Impatto     |   Fino a 50k  |   50k-100k  | 100k-500k | più di 1mln
+
+### Analisi dei rischi relativi alla sicurezza delle informazioni
+
+Rischio                                       | Owner
+----------------------------------------------|-------
+Accesso non autorizzato                       |
+Manipolazione di privilegi di sistema         |
+Manipolazione software (webapp, app mobile)   |
+Erogazione non autorizzata delle SIM          |
+Distribuzione di informazioni non autorizzate |
+Data breach (social engineering oppure sw)    |
