@@ -155,3 +155,15 @@ Manipolazione software (webapp, app mobile)   |
 Erogazione non autorizzata delle SIM          |
 Distribuzione di informazioni non autorizzate |
 Data breach (social engineering oppure sw)    |
+
+### Tabella dei rischi relativi alla sicurezza delle informazioni
+
+                                            . | Probabilità | Impatti | Rischio residuo
+----------------------------------------------|-------------|---------|-----------------
+Accesso non autorizzato                       | Improbabile |  Alto   |        8
+Manipolazione di privilegi di sistema         |    Raro     |  Alto   |        4
+Manipolazione software (webapp, app mobile)   |  Probabile  |  Basso  |        4
+Erogazione non autorizzata delle SIM          |  Probabile  |  Basso  |        4
+Distribuzione di informazioni non autorizzate | Improbabile | Med-Alto|        6
+Data breach (social engineering oppure sw)    |    Raro     |  Alto   |        4
+
