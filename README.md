@@ -158,7 +158,7 @@ Data breach (social engineering oppure sw)    |
 
 ### Tabella dei rischi relativi alla sicurezza delle informazioni
 
-                                            . | Probabilità | Impatti | Rischio residuo
+.                                             | Probabilità | Impatti | Rischio residuo
 ----------------------------------------------|-------------|---------|-----------------
 Accesso non autorizzato                       | Improbabile |  Alto   |        8
 Manipolazione di privilegi di sistema         |    Raro     |  Alto   |        4
