@@ -307,3 +307,35 @@ come Ho. Mobile dovrebbe adottare per protegge i dati sensibili dei suoi clienti
 
 Questi sono solo alcuni, e a mio parere pochi, passaggi obbligatori che ogni azienda che ha a che fare
 con delle informazioni riservate dei clienti debba attuare.
+
+### Risoluzione #2
+
+Passiamo invece all'argomento che logicamente segue alla prima risoluzione: la protezione
+dello storage interno e dei dati contenuti.
+Ovviamente, un utente, dopo la sua registrazione sicura, ha dei dati che devono permanere
+per essere riutilizzati dall'azienda un giorno futuro per assicurare la continuità di servizio,
+attribuire i pagamenti, e molto altro.
+Ovviamente, tenendo conto che nella maggior parte dei casi i server sono solamente *noleggiati*
+dall'azienda che offre il servizio (per ridurre i costi di operatività di servizio, ma anche per
+garantire la qualità e l'uptime che un operatore dovrebbe avere per i clienti) e non effettivamente
+comprati e fisicamente accessibili dalla società.
+
+Questo fatto è sia positivo che negativo, se si guarda il lato della sicurezza delle informazioni:
+
+**Da un lato**, nessuno della nostra azienda potrà fisicamente accedere ai dati, che saranno probabilmente
+sparsi su più datacenter, magari non in Italia, rendendoli *direttamente inaccessibili* ad un vettore
+di attacco che vuole effettuare un data breach.
+
+**Dall'altro**, invece, si affida la sicurezza della gestione delle proprie informazioni ad 
+una società esterna, aggiungendo quindi un layer aggiuntivo di complessità al nostro sistema di
+gestione della sicurezza.
+
+Bisogna quindi, se si sceglie di affidarsi all'esterno, fare una scelta ponderata (e non la più 
+economica, come spesso accade) sul provider di riferimento del servizio.
+
+Secondariamente, quando ci si è accertati della sicurezza del provider, bisogna anche accertarsi
+che le uniche connessioni a tali server da parte del "nostro" servizio siano automatizzate e sicure.
+Teoricamente, nessuno dovrebbe accedere "da terminale" ai dati importanti e riservati della clientela.
+Se questo dovesse succedere, anche solo per un gruppo riservato di persone, potrebbe essere un vettore 
+importante di attacco e sicuramente molto più difficile da tracciare con log rispetto a eventi 
+fatti "da macchine su altre macchine".
