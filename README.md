@@ -339,3 +339,26 @@ Teoricamente, nessuno dovrebbe accedere "da terminale" ai dati importanti e rise
 Se questo dovesse succedere, anche solo per un gruppo riservato di persone, potrebbe essere un vettore 
 importante di attacco e sicuramente molto più difficile da tracciare con log rispetto a eventi 
 fatti "da macchine su altre macchine".
+
+### Risoluzione #3
+
+Ultima delle risoluzioni trattate, ma non meno importante, è il fatto che si debba assicurare
+un tempo di non-operatività (o downtime) vicino allo zero. Un servizio come quello di un operatore
+telefonico conta anche sul fatto che il suo servizio sia *costantemente operativo*.
+Anche se molte volte questi downtime possono essere causati da cause esterne alla gestione aziendale
+(nodi server non operativi o malfunzionanti, troppo traffico per assicurare una qualità accettabile
+del servizio..) molte altre volte sono direttamente causati da malgestione interna o attacchi 
+provenienti dall'esterno.
+
+Non è raro sentire che diversi servizi di telefonia non siano operativi a causa di diversi tipi
+di attacchi, ed è giusto concentrare i propri sforzi per evitare che questo tipo di attacchi
+accadano, anche perchè, nonostante non rappresentino un enorme perdita "in denaro" per la società,
+fanno perdere la fiducia del consumatore nei confronti del servizio, che, a mio parere, è ancora peggio.
+
+Bisogna dunque focalizzare i propri sforzi sulle seguenti tematiche:
+
+- Adattamento di servizi di backup e ripristino di dati su una location diversa da quella principale
+- Cercare di parallelizzare le connessioni verso il servizio e ridurre il traffico da usare nell'usufruire
+  di siti e servizi: ridurre in generale le interazione verso il servizio può servire a mantenerne basso
+  il traffico ed alta la qualità, di conseguenza
+
