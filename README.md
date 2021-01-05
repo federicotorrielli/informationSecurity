@@ -1,5 +1,5 @@
 # Information Security Project
-> Federico Torrielli ed Ivan Spada
+> Federico Torrielli
 
 ![Consegna di progetto](https://i.imgur.com/aHBKo5g.png)
 
@@ -167,3 +167,26 @@ Erogazione non autorizzata delle SIM          |  Probabile  |  Basso  |        4
 Distribuzione di informazioni non autorizzate | Improbabile | Med-Alto|        6
 Data breach (social engineering oppure sw)    |    Raro     |  Alto   |        4
 
+### Qualche nota a lato dei punteggi
+
+Come si può notare, nessun punteggio tra quelli evidenziati, nonostante la severità
+di molti, supera il grado 8. Questo può essere dato da due fattori:
+
+- L'impatto dell'accaduto è altissimo (nell'ordine dei milioni di euro), ma la probabilità che accada è Rara.
+- L'impatto è basso ma la probabilità è alta, il che è ancora meno grave della precedente
+
+Sicuramente, tenendo conto di quanto è successo qualche giorno fa alla società Ho. Mobile,
+riguardante il data breach che ha coinvolto parecchie informazioni personali della clientela
+e informazioni tecniche riguardanti le SIM erogate dalla società che avrebbero potuto compromettere
+l'integrità del cliente e causare parecchi problemi (non solo in ambito privacy), c'è da considerare
+che il punteggio della sezione "Data Breach", così come di "Accesso non autorizzato" possano
+essere riconsiderate nella prospettiva dell'evolversi del ciclo Plan-Do-Check-Act che prevede
+una costante evoluzione e messa a punto dei parametri di sicurezza della società, che sicuramente
+dovranno essere rivisti alla luce degli ultimi fatti.
+
+## Controlli Annex A
+
+Individuiamo ora i controlli sugli asset che sono considerati fondamentali nel ciclo di vita
+della informazioni della società Ho. Mobile.
+Saranno messi in lista solamente i controlli Annex A che sono risultati da un primo generale esame
+centrali per la politica e la guida attuativa della sicurezza delle informazioni aziendali.
