@@ -186,6 +186,8 @@ dovranno essere rivisti alla luce degli ultimi fatti.
 
 ## Controlli Annex A
 
+### Procedure secondarie Annex A
+
 Individuiamo ora i controlli sugli asset che sono considerati fondamentali nel ciclo di vita
 della informazioni della società Ho. Mobile.
 Saranno messi in lista solamente i controlli Annex A che sono risultati da un primo generale esame
@@ -217,3 +219,45 @@ centrali per la politica e la guida attuativa della sicurezza delle informazioni
 - Sicurezza e manutenzione delle macchine e dei cablaggi (A.11.2.3 A.11.2.4)
 - Trasferimento degli asset, se necessario (A.11.2.5)
 - Dimissione sicura delle apparecchiature, soprattutto supporti di memoria (A.11.2.7)
+
+### Procedure fondamentali Annex A di priorità assoluta
+
+Si è deciso di separare la seguente sezione dalla precedente per dare risalto ai controlli Annex A
+che non solo bisogna rispettare, ma vengono raccomandati con estrema attenzione
+
+- Procedure operative e responsabilità (A.12.1)
+- Protezione da malware, backup e raccolta di log e monitoraggio (A.12.2, A.12.3 e A.12.4)
+- Controllo del software di produzione (A.12.5)
+- Gestione delle vulnerabilità tecniche (A.12.6)
+- Considerazioni sull'audit dei sistemi informativi (12.7.1)
+- Sicurezza dell'informazione e sicurezza di trasferimento di esse (A.13 intera), tra cui, ricordiamo:
+    - Controlli di rete
+    - Sicurezza dei servizi di rete
+    - Segregazione nelle reti
+    - Politiche del trasferimento delle informazioni e susseguenti accordi
+    - Messaggistica elettronica inter-dipartimentale
+    - Accordi di riservatezza e non divulgazione
+- Acquisizione, sviluppo e manutenzione dei sistemi (A.14 intera) --> altrettanto fondamentale è
+  è tutto ciò che riguarda i sistemi, propri o a noleggio, che sono parte degli asset e lo sviluppo,
+  la loro manutenzione e il controllo dei cambiamenti che riguarda la loro gestione. Escludiamo, dai controlli
+  lo sviluppo affidato all'esterno, in quanto tutto il codice e controlli sono proprietari
+    - Protezione delle transazioni dei sistemi applicativi
+    - Politica per lo sviluppo sicuro: nessun codice deve uscire dal dominio aziendale
+    - Limitazioni ai cambiamenti dei pacchetti software
+    - Ambiente di sviluppo sicuro
+    - Test di sicurezza dei sistemi
+    - Testi di accettazione dei sistemi
+
+> Includiamo la parte più critica ed ultima in questo ciclo di procedure fondamentali di priorità assoluta,
+> ovvero la gestione degli incidenti relativi alla sicurezza delle informazioni (A.16), che, nella speranza
+> venga applicata anche durante il periodo corrente, a seguito del recente data breach avvenuto qualche giorno fa.
+
+- Procedure e responsabilità ben definite
+- Segnalazione IMMEDIATA degli eventi relativi alla sicurezza di informazioni (entro 48h dall'accaduto per norma GDPR)
+- Segnalazione dei punti di debolezza relativi alla sicurezza delle informazioni
+- Valutazione e decisione sugli eventi relativi alla sicurezza delle informazioni
+- Risposta agli incidenti
+- Apprendimento dagli incidenti
+- Raccolta di evidenze
+
+
