@@ -1,4 +1,4 @@
-# Information Security Project
+# Information Security Project: Ho. Mobile
 > Federico Torrielli
 
 ![Consegna di progetto](https://i.imgur.com/aHBKo5g.png)
@@ -264,3 +264,46 @@ che non solo bisogna rispettare, ma vengono raccomandati con estrema attenzione
 
 Nella parte corrente, verrà predisposto un piano di trattamento del rischio atto a mitigare alcuni
 dei rischi identificati nella seconda sezione del testo.
+
+Abbiamo evidenziato che i punti focali su cui si andrà a poggiare la maggior responsabilità
+sono quelli che presentano criticità o il cui punteggio di rischio possibile è più alto.
+Affiancheremo ai rischi le risoluzione numerate ed andremo a trattarle una ad una in modo chiaro ed
+espicito, formalizzando anche quali potrebbero essere i vettori di attacco e le possibili difese 
+a disposizione.
+
+Verranno mostrati, di seguito, quelli che sono i tre problemi principali a cui una società come Ho. Mobile
+potrebbe assistere, indipendentemente dalla gestione aziendale.
+
+Rischio                                      | Possibile risoluzione
+---------------------------------------------|-----------------------
+Protezione dei dati sensibili della clientela| Risoluzione #1
+Protezione dello storage e dati interni      | Risoluzione #2
+Alterazione dello stato di servizi e downtime| Risoluzione #3
+
+### Risoluzione #1
+
+Affrontiamo il tema della protezione dei dati sensibili della clientela.
+Essendo Ho. un servizio che si basa sull'acquisizione di dati sensibili per erogare un servizio
+è una delle parti più fondamentali su cui focalizzarsi.
+
+Dalla registrazione del cliente, fino alla rimozione dei suoi dati dai server, i passaggi
+devono assicurare la totale sicurezza e trasparenza nei confronti del cliente stesso.
+
+Di seguito, vengono elencati alcuni passaggi che sono sono solo *basilarmente* quello che un'azienda
+come Ho. Mobile dovrebbe adottare per protegge i dati sensibili dei suoi clienti.
+
+- Permettere una registrazione con il minor numero possibile di informazioni da dare all'operatore:
+  meno informazioni = meno dati sensibili da esporre a vettori di attacco
+- Processi di registrazione e trasporto di dati devono essere fatti su connessione crittografata 
+- Processi di mantenimento di dati devono essere intrapresi su server sicuri, senza la possibilità di
+  *accesso fisico* da parte di personale, se non per manutenzione straordinaria (che deve però richiedere)
+  la cancellazione degli stessi dati *prima* di ogni intervento in ogni caso
+- Lo stesso personale non dovrebbe avere accesso a dati in chiaro degli utenti, e se proprio
+  dovesse essere una necessità, bisognerebbe rispettare una gerarchia di accesso che include
+  le conseguenti responsabilità, tenendo sempre traccia dei log di accesso al sistema.
+- Grazie al punto di cui sopra, in caso di data breach, si può risalire alla lista degli accessi
+  fatti e si potrà facilmente trovare il punto di vulnerabilità del sistema (umano o tecnologico)
+  nel tempo più breve possibile
+
+Questi sono solo alcuni, e a mio parere pochi, passaggi obbligatori che ogni azienda che ha a che fare
+con delle informazioni riservate dei clienti debba attuare.
