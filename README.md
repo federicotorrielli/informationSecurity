@@ -190,3 +190,30 @@ Individuiamo ora i controlli sugli asset che sono considerati fondamentali nel c
 della informazioni della società Ho. Mobile.
 Saranno messi in lista solamente i controlli Annex A che sono risultati da un primo generale esame
 centrali per la politica e la guida attuativa della sicurezza delle informazioni aziendali.
+
+- Politiche per la sicurezza delle informazioni e conseguente riesame (A.5.1.1/A.5.1.2)
+- Politiche per l'organizzazione interna (A.6.1 intero) --> Essendo Ho un'azienda di una grandezza non trascurabile
+  possiamo immaginare che abbia bisogno dell'intera *suite* di controlli sulla sua organizzazione interna.
+- Politiche per il telelavoro (A.6.2.2) --> bisogna ribadire che in un momento come il presente
+  l'importanza di garantire la sicurezza anche in modalità telematica sia una dei temi forti oggigiorno
+- Consapevolezza, istruzione, formazione e addestramento sulla sicurezza delle informazioni (A.7.2.2)
+- Processo disciplinare (A.7.2.3)
+- Cessazione o variazione delle responsabilità durante il rapporto di lavoro (A.7.3.1)
+- Responsabilità degli asset (A.8.1) --> Essendo una società informatica di grandi dimensioni, bisogna
+  garantire che tutti gli asset su cui sono presenti delle informazioni riservate nei limiti aziendali
+  restino nei suddetti confini, per evitare possibili fughe d'informazioni.
+- Classificazione delle informazioni (A.8.2) --> Vale il discorso di cui sopra
+- Trattamento dei supporti (A.8.3) --> Vale il discorso di cui sopra
+- Utilizzo delle informazioni segrete di autenticazione (A.9.3.1) --> come già detto nei paragrafi
+  precedenti, l'accesso alle informazioni riservate deve essere esclusivo a chi ne ha il grado
+  e la competenza di visionarli, nei limiti della gerarchia d'utenza nella società
+- Politica di controllo accessi (A.9.1.1)
+- Accesso alle reti e ai servizi di rete (A.9.1.2)
+- Controllo degli accessi ai sistemi e alle applicazioni (A.9.4) --> Forse uno dei controlli più importanti
+  della lista: la necessità di avere log degli accessi è fondamentale per una società che potrebbe essere
+  costantemente target di attacchi da vettori esterni ed interni per impossessarsi di informazioni riservate
+- Crittografia (A.10)
+- Controlli di accesso fisico ai locali (A.11.1.2)
+- Sicurezza e manutenzione delle macchine e dei cablaggi (A.11.2.3 A.11.2.4)
+- Trasferimento degli asset, se necessario (A.11.2.5)
+- Dimissione sicura delle apparecchiature, soprattutto supporti di memoria (A.11.2.7)
