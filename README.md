@@ -260,4 +260,7 @@ che non solo bisogna rispettare, ma vengono raccomandati con estrema attenzione
 - Apprendimento dagli incidenti
 - Raccolta di evidenze
 
+## Piano di trattamento del rischio
 
+Nella parte corrente, verrà predisposto un piano di trattamento del rischio atto a mitigare alcuni
+dei rischi identificati nella seconda sezione del testo.
