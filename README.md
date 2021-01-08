@@ -362,3 +362,14 @@ Bisogna dunque focalizzare i propri sforzi sulle seguenti tematiche:
   di siti e servizi: ridurre in generale le interazione verso il servizio può servire a mantenerne basso
   il traffico ed alta la qualità, di conseguenza
 
+## Conclusione e pareri personali
+
+Nel mondo contemporaneo l'importanza di adattare una o più policy di Information Security management
+è diventata palese. Ciò che è successo ad Ho., può ovviamente ripetersi per ogni azienda, non solo del
+settore IT, ma anche qualsiasi esso sia.
+
+La fortuna (e sfortuna) che ho avuto nel poter trattare l'argomento pre-breach e post-breach ha 
+illuminato la relazione sotto due diverse luci, dando sicuramente degli spunti interessanti.
+
+Ringrazio *Ivan Spada* per avermi dato degli spunti interessanti sulla situazione post-breach ed
+aver contribuito alla scrittura del primo paragrafo.
