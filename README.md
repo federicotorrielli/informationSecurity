@@ -143,7 +143,7 @@ Probabilità |  ogni 10 anni | ogni 5 anni | ogni mese | ogni settimana
 .           |     Basso     | Medio-Basso | Medio-Alto|    Alto
 ------------|---------------|-------------|-----------|------------
 Livello     |       1       |      2      |     3     |     4
-Impatto     |   Fino a 50k  |   50k-100k  | 100k-500k | più di 1mln
+Impatto     |   Fino a 50k  |   50k-100k  | 5 mln     | più di 20mln
 
 ### Analisi dei rischi relativi alla sicurezza delle informazioni
 
