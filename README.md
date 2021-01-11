@@ -22,13 +22,13 @@ e allo stesso tempo contrastare la concorrenza creatasi da un'azienda esterna.
 
 I principali player che vengono in atto quando si parla di gestione di un operatore virtuale affidato sono generalmente i seguenti:
 
-- La società stakeholder principale. In questo caso, la VEI.
-- L'utenza mobile interessata da ricoprire: persone interessate a pagare poco ma ad avere un servizio di buona qualità.
+- La società **stakeholder** principale. In questo caso, la VEI.
+- L'**utenza mobile** interessata da ricoprire: persone interessate a pagare poco ma ad avere un servizio di buona qualità.
 - Il servizio principale che si occupa del servizio, anch'esso diviso in:
-    - Programmatori web della piattaforma
-    - Programmatori DB per la gestione dei dati
-    - Servizio di management e controllo delle operazioni
-    - Servizio di erogazione delle offerte alla clientela
+    - *Programmatori web* della piattaforma
+    - *Programmatori DB* per la gestione dei dati
+    - Servizio di **management e controllo** delle operazioni
+    - Servizio di **erogazione delle offerte** alla clientela
 - Servizi secondari, che fanno la differenza tra un'operatore reale e virtuale, come:
     - L'assistenza clienti telefonica, affidata ad aziende esterne, spesso estere
     - L'assistenza clienti online, tramite forum, per ingaggiare una community a trovare risposte da soli tra loro, senza dover spendere troppo sull'assistenza
@@ -37,8 +37,8 @@ I principali player che vengono in atto quando si parla di gestione di un operat
     - Lo stato italiano e l'unione europea, verso cui si hanno obblighi quali il rispetto del GDPR e il pagamento delle tasse per il servizio offerto
     - Il servizio bancario di gestione dell'income dell'azienda
 - Interessi esterni negativi (ma effettivamente presenti) per l'azienda:
-    - Persone interessate ad impossessarsi dei dati degli utenti per finalità di social engineering (od ancora peggiori)
-    - Competitors interessati a negare lo status quo aziendale per prevalere sulla competizione
+    - Persone interessate ad *impossessarsi dei dati* degli utenti per finalità di social engineering (od ancora peggiori)
+    - **Competitors** interessati a negare lo status quo aziendale per prevalere sulla competizione
 
 Risulta dunque necessario ora poter dividere questi "player principali" in due categorie, successivamente utili:
 
